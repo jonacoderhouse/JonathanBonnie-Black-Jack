@@ -1,0 +1,32 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    color: white;
+    background-color: green;
+}
+.titulo{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.carta{
+    width: 120px;
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadpraCartas, #jugadorCartas{ 
+    height:200px ;
+
+}
+
